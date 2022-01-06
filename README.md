@@ -1,2 +1,2 @@
 # PicGo
-This repository acts as a figure bed bed for storing images.
+This repository acts as a figure bed for storing images.
